@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "C & S Seamless Gutters",
+    "phone": "15026413941",
+    "category": "handyman",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "handyman-red-charge",
+      "categoryGroup": "handyman",
+      "name": "Red Charge",
+      "recipeFile": "handyman/red-charge.astro",
+      "colors": {
+        "primary": "#B45309",
+        "primaryDark": "#78350F",
+        "primaryLight": "#ecd4c2",
+        "secondary": "#a24b08",
+        "accent": "#F97316",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#B45309",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "handyman/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Louisville Handyman: Done Right.",
+      "heroSubline": "Reliable repairs and improvements for your home. Serving Louisville and surrounding areas with quality craftsmanship.",
+      "aboutTitle": "Your Trusted Louisville Handyman",
+      "aboutText": [
+        "C & S Seamless Gutters started with a simple mission: to provide honest and reliable handyman services to our neighbors in Louisville. We saw a need for skilled professionals who treat every home with respect and every project with care.",
+        "Our approach is simple: clear communication, quality workmanship, and a commitment to exceeding your expectations. We believe in doing the job right the first time and building lasting relationships with our clients.",
+        "We're proud to be a part of the Louisville community. We actively support local initiatives and strive to contribute to the well-being of our neighborhoods. When you choose C & S Seamless Gutters, you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience handling a wide range of home repairs and improvements."
+        },
+        {
+          "title": "Reliable & Trustworthy",
+          "description": "We show up on time, communicate clearly, and treat your home with the utmost respect."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We take pride in our work and ensure every project is completed to the highest standards."
+        },
+        {
+          "title": "Locally Owned & Operated",
+          "description": "We're a local Louisville business committed to serving our community."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Estimate Today!",
+      "ctaSubline": "Contact us for a no-obligation quote on your next home project."
+    },
+    "services": [
+      {
+        "slug": "gutter-repair-replacement",
+        "name": "Gutter Repair & Replacement",
+        "shortDescription": "Protect your Louisville home with expert gutter services.",
+        "description": "Louisville's weather, with its heavy rains and occasional ice storms, can be tough on gutters. C & S Seamless Gutters specializes in gutter repair and replacement to keep your home protected from water damage. We handle everything from minor repairs like patching leaks and re-hanging sagging sections to complete gutter system replacements. \n\nWe offer a variety of gutter materials to suit your home's style and budget, including aluminum, copper, and vinyl. Our seamless gutter installations minimize leaks and provide a clean, finished look. We also offer gutter cleaning services to keep your gutters free of debris and functioning properly. We understand Louisville's unique challenges related to limestone foundations and the importance of proper water drainage. Let us help you protect your home from costly water damage.\n\nOur team will assess your gutter system, provide you with a clear and honest estimate, and complete the work efficiently and professionally. We are familiar with the diverse housing styles in Louisville, from historic homes in Old Louisville to newer constructions in the suburbs, and we tailor our services to meet your specific needs.",
+        "process": [
+          "Step 1: Inspection and Assessment - We thoroughly inspect your gutters to identify any damage or issues.",
+          "Step 2: Honest Estimate - We provide you with a clear and detailed estimate for the necessary repairs or replacement.",
+          "Step 3: Professional Installation/Repair - Our experienced team completes the work efficiently and to the highest standards.",
+          "Step 4: Clean Up & Inspection - We clean up the job site and ensure you're completely satisfied with the results."
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation and siding",
+          "Protects your landscaping from erosion",
+          "Extends the life of your roof",
+          "Enhances your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "In Louisville, we recommend cleaning your gutters at least twice a year, in the spring and fall, to remove leaves, debris, and other buildup."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made on-site to fit your home perfectly, eliminating seams that can leak and cause problems. They offer a cleaner look and require less maintenance."
+          },
+          {
+            "question": "How do I know if I need new gutters?",
+            "answer": "Signs that you may need new gutters include leaks, sagging, rust, cracks, and frequent clogs. If your gutters are damaged beyond repair, replacement is often the best option."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Seamless drywall repairs to restore your walls to their former glory.",
+        "description": "From minor dings and dents to larger holes and water damage, C & S Seamless Gutters provides expert drywall repair services throughout Louisville. We understand that damaged drywall can detract from the appearance of your home and even lead to further problems if left unaddressed. Our skilled technicians can seamlessly repair any drywall issue, leaving your walls looking as good as new.\n\nWe handle everything from patching small nail holes to repairing large sections of damaged drywall. We use high-quality materials and techniques to ensure a durable and long-lasting repair. We also offer drywall installation services for new construction or remodeling projects. Our team is experienced in matching textures and finishes to seamlessly blend the repair with your existing walls. We know that many Louisville homes, especially older ones in areas like Old Louisville, can have unique drywall challenges, and we're prepared to handle them.\n\nOur drywall repair process includes removing damaged sections, patching holes, applying joint compound, sanding smooth, and priming the surface for painting. We take pride in our attention to detail and ensure a flawless finish every time. We also protect your furniture and belongings during the repair process and clean up thoroughly when the job is complete.",
+        "process": [
+          "Step 1: Assess the Damage - We carefully assess the extent of the drywall damage.",
+          "Step 2: Prepare the Area - We protect surrounding surfaces and remove any loose or damaged drywall.",
+          "Step 3: Repair and Patch - We apply joint compound and tape to create a smooth, seamless patch.",
+          "Step 4: Sand and Finish - We sand the patched area smooth and prime it for painting."
+        ],
+        "benefits": [
+          "Restores the appearance of your walls",
+          "Prevents further damage from moisture or pests",
+          "Increases the value of your home",
+          "Provides a smooth surface for painting or wallpapering"
+        ],
+        "faq": [
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "The duration of drywall repair depends on the extent of the damage. Small repairs can often be completed in a few hours, while larger repairs may take a day or two."
+          },
+          {
+            "question": "Can you match the existing texture of my walls?",
+            "answer": "Yes, our skilled technicians are experienced in matching a wide range of drywall textures to ensure a seamless repair."
+          },
+          {
+            "question": "Do I need to paint the repaired area?",
+            "answer": "Yes, after the drywall repair is complete, it will need to be primed and painted to match the surrounding walls."
+          }
+        ]
+      },
+      {
+        "slug": "painting-services",
+        "name": "Interior & Exterior Painting",
+        "shortDescription": "Refresh your Louisville home with professional painting services.",
+        "description": "A fresh coat of paint can transform the look and feel of your Louisville home, both inside and out. C & S Seamless Gutters offers comprehensive interior and exterior painting services to revitalize your living spaces. Whether you're looking to update a single room or repaint your entire house, our experienced painters will deliver exceptional results.\n\nWe use high-quality paints and materials to ensure a durable and long-lasting finish. Our team is skilled in all aspects of painting, from surface preparation to applying the final coat. We take pride in our attention to detail and ensure a smooth, even finish every time. We understand the unique challenges of painting in Louisville's climate, from hot, humid summers to cold winters, and we use the right products and techniques to withstand the elements.\n\nFor interior painting, we protect your furniture and belongings and prepare the surfaces by cleaning, sanding, and priming. For exterior painting, we power wash the surfaces to remove dirt and debris and repair any damaged areas before painting. We also offer color consultation services to help you choose the perfect colors for your home. We're familiar with the popular color trends in Louisville and can help you create a look that reflects your personal style.",
+        "process": [
+          "Step 1: Consultation & Color Selection - We discuss your vision and help you choose the perfect colors.",
+          "Step 2: Surface Preparation - We prepare the surfaces by cleaning, sanding, and priming.",
+          "Step 3: Painting - We apply high-quality paints with precision and care.",
+          "Step 4: Clean Up & Inspection - We clean up the job site and ensure you're completely satisfied."
+        ],
+        "benefits": [
+          "Enhances your home's curb appeal",
+          "Protects your home from the elements",
+          "Increases the value of your home",
+          "Creates a fresh and inviting living space"
+        ],
+        "faq": [
+          {
+            "question": "How long does painting take?",
+            "answer": "The duration of painting depends on the size and complexity of the project. A single room can often be painted in a day or two, while an entire house may take several days."
+          },
+          {
+            "question": "Do I need to move my furniture?",
+            "answer": "We recommend moving as much furniture as possible to allow for easy access to the walls. We can also help you move furniture if needed."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use high-quality paints from reputable brands that are designed to provide a durable and long-lasting finish."
+          }
+        ]
+      },
+      {
+        "slug": "carpentry-services",
+        "name": "General Carpentry",
+        "shortDescription": "Expert carpentry services for all your home needs.",
+        "description": "C & S Seamless Gutters offers a wide range of carpentry services to address various needs in your Louisville home. Our experienced carpenters can handle everything from minor repairs to custom projects, ensuring quality workmanship and attention to detail. Whether you need a new deck built, trim work installed, or doors and windows repaired, we have the skills and expertise to get the job done right.\n\nWe understand the unique architectural styles of Louisville homes, from the historic charm of Old Louisville to the modern designs in newer developments. We tailor our carpentry services to match the specific needs and aesthetics of your home. We use high-quality materials and proven techniques to ensure durable and long-lasting results.\n\nOur carpentry services include framing, trim work, door and window installation/repair, deck building, fence repair, and custom woodworking. We work closely with you to understand your vision and bring it to life. We are committed to providing exceptional customer service and exceeding your expectations. We also take pride in our clean and organized work sites, minimizing disruption to your daily life.",
+        "process": [
+          "Step 1: Consultation & Design - We discuss your project and create a detailed plan.",
+          "Step 2: Material Selection - We help you choose the right materials for your project.",
+          "Step 3: Construction & Installation - Our skilled carpenters build and install with precision.",
+          "Step 4: Final Inspection - We ensure you're completely satisfied with the finished product."
+        ],
+        "benefits": [
+          "Enhances the beauty and functionality of your home",
+          "Increases the value of your property",
+          "Provides custom solutions to meet your specific needs",
+          "Ensures durable and long-lasting results"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer custom carpentry services?",
+            "answer": "Yes, we offer custom carpentry services to create unique pieces and solutions tailored to your specific needs and style."
+          },
+          {
+            "question": "How long does a carpentry project take?",
+            "answer": "The duration of a carpentry project depends on the complexity and scope of the work. We provide a realistic timeline during the consultation phase."
+          },
+          {
+            "question": "Are you licensed and insured?",
+            "answer": "Yes, we are a licensed and insured contractor, providing you with peace of mind and protection."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-installation",
+        "name": "Flooring Installation",
+        "shortDescription": "Upgrade your Louisville home with professional flooring installation.",
+        "description": "New flooring can dramatically transform the look and feel of your Louisville home. C & S Seamless Gutters offers professional flooring installation services to help you achieve the perfect look for your living spaces. We handle a wide range of flooring types, including hardwood, laminate, vinyl, tile, and carpet. Our experienced installers ensure a precise and durable installation that will last for years to come.\n\nWe understand the importance of choosing the right flooring for your lifestyle and budget. We offer expert advice and guidance to help you select the best flooring option for each room in your home. We also take into consideration the unique characteristics of Louisville homes, such as older homes with uneven subfloors and newer homes with modern design elements. We prepare the subfloor properly to ensure a smooth and even surface for your new flooring.\n\nOur flooring installation process includes removing the old flooring, preparing the subfloor, installing the new flooring, and adding finishing touches like baseboards and trim. We take pride in our attention to detail and ensure a clean and professional installation. We also offer flooring repair services for existing floors that need to be patched or refinished.",
+        "process": [
+          "Step 1: Consultation & Material Selection - We discuss your needs and help you choose the right flooring.",
+          "Step 2: Subfloor Preparation - We prepare the subfloor to ensure a smooth and even surface.",
+          "Step 3: Flooring Installation - We install your new flooring with precision and care.",
+          "Step 4: Finishing Touches - We add baseboards and trim for a polished look."
+        ],
+        "benefits": [
+          "Enhances the beauty and comfort of your home",
+          "Increases the value of your property",
+          "Provides a durable and long-lasting surface",
+          "Improves the air quality in your home"
+        ],
+        "faq": [
+          {
+            "question": "How long does flooring installation take?",
+            "answer": "The duration of flooring installation depends on the size of the room and the type of flooring being installed. We provide a realistic timeline during the consultation phase."
+          },
+          {
+            "question": "Do I need to remove my furniture?",
+            "answer": "Yes, we recommend removing all furniture from the room before flooring installation begins. We can also help you move furniture if needed."
+          },
+          {
+            "question": "What types of flooring do you install?",
+            "answer": "We install a wide range of flooring types, including hardwood, laminate, vinyl, tile, and carpet."
+          }
+        ]
+      },
+      {
+        "slug": "minor-plumbing-repairs",
+        "name": "Minor Plumbing Repairs",
+        "shortDescription": "Reliable solutions for your minor plumbing issues in Louisville.",
+        "description": "C & S Seamless Gutters provides efficient and affordable minor plumbing repair services to address common issues in your Louisville home. From leaky faucets and clogged drains to running toilets and dripping pipes, our skilled technicians can quickly diagnose and resolve your plumbing problems. We understand the inconvenience and potential damage that even small plumbing issues can cause, so we offer prompt and reliable service to get your plumbing back in working order.\n\nWe are familiar with the plumbing systems in various types of Louisville homes, from the older plumbing in historic neighborhoods to the newer systems in modern developments. We use quality parts and materials to ensure lasting repairs. We also offer preventative maintenance services to help you avoid future plumbing problems. We understand the importance of water conservation and can help you identify and repair leaks to save water and money.\n\nOur minor plumbing repair services include faucet repair/replacement, drain cleaning, toilet repair/replacement, pipe leak repair, and garbage disposal repair/replacement. We provide upfront pricing and clear communication throughout the repair process. We also clean up the work area after completing the repair, leaving your home neat and tidy.",
+        "process": [
+          "Step 1: Diagnosis - We identify the source of the plumbing problem.",
+          "Step 2: Solution - We explain the repair options and provide an upfront price.",
+          "Step 3: Repair - We complete the repair efficiently and effectively.",
+          "Step 4: Testing - We test the repair to ensure it's working properly."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Saves water and money",
+          "Restores the functionality of your plumbing system",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How much does a plumbing repair cost?",
+            "answer": "The cost of a plumbing repair depends on the nature of the problem. We provide upfront pricing after diagnosing the issue."
+          },
+          {
+            "question": "Do you offer emergency plumbing services?",
+            "answer": "For urgent plumbing issues, please call our main line directly. We will assess the situation and dispatch a technician as quickly as possible."
+          },
+          {
+            "question": "What should I do if I have a leaking pipe?",
+            "answer": "Turn off the water supply to the leaking pipe and call us immediately for repair."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is proud to serve the Louisville metropolitan area, providing top-quality gutter installation, repair, and maintenance services. We understand the unique challenges Louisville's climate presents, from heavy rain and snow to the fluctuating temperatures that can cause damage to your home's exterior. That's why we use only the highest-quality materials and employ experienced professionals to ensure your gutters are functioning optimally, protecting your home from water damage.\n\nWhether you're in the Highlands, St. Matthews, or downtown Louisville, our team is ready to assist with all your gutter needs. We offer a wide range of services, including seamless gutter installation, gutter cleaning, gutter repair, and gutter guard installation. We are committed to providing exceptional customer service and ensuring your complete satisfaction.",
+        "localContext": "Louisville is known for its diverse neighborhoods, historic architecture, and unpredictable weather, all of which impact gutter performance and maintenance needs.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "Shively",
+          "Lyndon"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is dedicated to providing Jeffersontown residents with reliable and affordable gutter solutions. We understand the importance of protecting your home from the elements, and our team of experienced professionals is committed to providing top-quality gutter installation, repair, and maintenance services. We take pride in our workmanship and use only the best materials to ensure your gutters are functioning properly.\n\nFrom replacing damaged gutters to installing gutter guards to prevent clogs, we have you covered. We offer a wide range of services to meet your specific needs and budget. Our team is also available for routine gutter cleaning to ensure your gutters are free of debris and functioning optimally.",
+        "localContext": "Jeffersontown's mix of residential and commercial properties, coupled with its established trees, creates a significant need for regular gutter maintenance.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Middletown"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is proud to serve the community of Shively, Kentucky. We understand the importance of well-maintained gutters in protecting your home from water damage, especially in a climate like ours. Our team of experienced professionals is dedicated to providing top-quality gutter installation, repair, and cleaning services to ensure your home is safe and dry.\n\nWe offer a wide range of services to meet your specific needs, including seamless gutter installation, gutter repair, gutter cleaning, and gutter guard installation. We use only the highest-quality materials and stand behind our workmanship. Contact us today for a free estimate.",
+        "localContext": "Shively's location near the Ohio River and its industrial history contribute to specific gutter maintenance needs due to potential air pollutants and increased rainfall.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is committed to providing Lyndon, KY residents with exceptional gutter services. We understand the unique challenges of maintaining gutters in this area, from seasonal leaf fall to the impacts of occasional severe weather. Our team is equipped to handle all your gutter needs, whether it's a simple repair or a complete seamless gutter installation.\n\nWe pride ourselves on our attention to detail and commitment to customer satisfaction. We offer a full range of services, including gutter cleaning, repair, installation, and gutter guard installation. We are dedicated to protecting your home from water damage and ensuring your gutters are functioning properly.",
+        "localContext": "Lyndon's mature trees and established neighborhoods mean that residents often require more frequent gutter cleaning services.",
+        "nearbyAreas": [
+          "Louisville",
+          "Jeffersontown",
+          "St. Matthews"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is your trusted source for gutter services in Middletown, Kentucky. We understand the importance of having a properly functioning gutter system to protect your home from water damage. Our team of experienced professionals is dedicated to providing top-quality gutter installation, repair, and maintenance services to ensure your home is safe and dry.\n\nWe offer a wide range of services to meet your specific needs, including seamless gutter installation, gutter repair, gutter cleaning, and gutter guard installation. We use only the highest-quality materials and stand behind our workmanship. Contact us today for a free estimate.",
+        "localContext": "Middletown's mix of older and newer homes creates a demand for a variety of gutter solutions, from traditional repairs to modern seamless systems.",
+        "nearbyAreas": [
+          "Louisville",
+          "Anchorage",
+          "Jeffersontown"
+        ]
+      },
+      {
+        "city": "Anchorage",
+        "slug": "anchorage-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is proud to offer our gutter services to the residents of Anchorage, Kentucky. We recognize the importance of maintaining the beautiful homes in this area, and proper gutter maintenance is a key part of that. Our team of skilled professionals is dedicated to providing top-notch gutter installation, repair, and cleaning services.\n\nWe offer a comprehensive range of services to suit your needs, including seamless gutter installation, gutter repair, gutter cleaning, and the installation of gutter guards. We only use the best materials available and stand behind our work. Get in touch with us today for a free quote.",
+        "localContext": "Anchorage's heavily wooded areas contribute to a higher rate of leaf accumulation in gutters, requiring more frequent cleaning and potential gutter guard solutions.",
+        "nearbyAreas": [
+          "Louisville",
+          "Middletown",
+          "Lyndon"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters is delighted to serve the St. Matthews, KY community with our exceptional gutter services. We understand the importance of protecting your home from water damage with a properly functioning gutter system. Our team of expert professionals is committed to providing top-quality gutter installation, repair, and maintenance services to ensure your home remains safe and dry.\n\nWe offer a wide array of services tailored to your specific needs, including seamless gutter installation, gutter repair, gutter cleaning, and the installation of gutter guards. We're committed to using only the highest-quality materials and guaranteeing the quality of our work. Reach out today for a complimentary estimate.",
+        "localContext": "St. Matthews' older homes and tree-lined streets necessitate regular gutter cleaning and maintenance to prevent water damage.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Jeffersontown"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "C & S Seamless Gutters provides expert gutter services to the Valley Station, Kentucky community. We understand the critical role a well-maintained gutter system plays in safeguarding your home from water damage. Our team of skilled professionals is dedicated to delivering top-tier gutter installation, repair, and maintenance services, ensuring your home remains protected and dry.\n\nWe offer a comprehensive range of services designed to meet your specific needs, including seamless gutter installation, gutter repair, gutter cleaning, and the installation of gutter guards. We are committed to using only the highest quality materials and guarantee the quality of our work. Contact us today for a free quote.",
+        "localContext": "Valley Station's proximity to the Ohio River and its diverse housing styles necessitate tailored gutter solutions for optimal water management.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Shively"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Gutter Repair",
+        "text": "C & S Seamless Gutters did an amazing job repairing my gutters after that last big storm. They were prompt, professional, and the price was very reasonable. I highly recommend them!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Drywall Repair",
+        "text": "Had a water leak that damaged my drywall. C & S Seamless Gutters came out and fixed it quickly and efficiently. You can't even tell there was ever a hole there. Great job!",
+        "date": "2024-09-02"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "C & S Seamless Gutters painted my living room and did a fantastic job. They were very careful with my furniture and the paint job looks perfect. Will definitely use them again!",
+        "date": "2024-10-10"
+      },
+      {
+        "name": "Tom S.",
+        "rating": 5,
+        "service": "Carpentry",
+        "text": "Needed some trim work done around my windows. C & S Seamless Gutters did a great job matching the existing trim and installing the new pieces. Very professional and skilled.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Karen B.",
+        "rating": 4,
+        "service": "Flooring Installation",
+        "text": "C & S Seamless Gutters installed new laminate flooring in my kitchen. The installation was smooth and the floor looks great. I'm very happy with the results.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Minor Plumbing Repairs",
+        "text": "Had a leaky faucet that was driving me crazy. C & S Seamless Gutters came out and fixed it quickly and affordably. Very reliable and professional service.",
+        "date": "2025-01-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "C & S Seamless Gutters | Louisville Handyman",
+        "description": "Trusted handyman services in Louisville, KY. Gutter repair, drywall, painting, carpentry, flooring, and more. Call today!"
+      },
+      "about": {
+        "title": "About C & S Seamless Gutters",
+        "description": "Learn about C & S Seamless Gutters, your local Louisville handyman. Quality, reliability, and community focus."
+      },
+      "services": {
+        "title": "C & S Seamless Gutters | Our Services",
+        "description": "Explore our handyman services in Louisville: gutter repair, drywall, painting, carpentry, flooring, plumbing, and more."
+      },
+      "contact": {
+        "title": "Contact C & S Seamless Gutters",
+        "description": "Contact C & S Seamless Gutters for reliable handyman services in Louisville. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "C & S Seamless Gutters | Customer Reviews",
+        "description": "Read what our satisfied customers in Louisville are saying about C & S Seamless Gutters' handyman services."
+      },
+      "service-areas": {
+        "title": "C & S Seamless Gutters | Service Areas",
+        "description": "C & S Seamless Gutters provides handyman services in Louisville and surrounding areas. Check our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "gutter-repair-replacement": "/images/service-gutter-repair-replacement.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "painting-services": "/images/service-painting-services.webp",
+      "carpentry-services": "/images/service-carpentry-services.webp",
+      "flooring-installation": "/images/service-flooring-installation.webp",
+      "minor-plumbing-repairs": "/images/service-minor-plumbing-repairs.webp"
+    },
+    "servicesResponsive": {
+      "gutter-repair-replacement": {
+        "src": "/images/service-gutter-repair-replacement.webp",
+        "srcset": "/images/service-gutter-repair-replacement-400w.webp 400w, /images/service-gutter-repair-replacement-800w.webp 800w, /images/service-gutter-repair-replacement-1200w.webp 1200w, /images/service-gutter-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "painting-services": {
+        "src": "/images/service-painting-services.webp",
+        "srcset": "/images/service-painting-services-400w.webp 400w, /images/service-painting-services-800w.webp 800w, /images/service-painting-services-1200w.webp 1200w, /images/service-painting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpentry-services": {
+        "src": "/images/service-carpentry-services.webp",
+        "srcset": "/images/service-carpentry-services-400w.webp 400w, /images/service-carpentry-services-800w.webp 800w, /images/service-carpentry-services-1200w.webp 1200w, /images/service-carpentry-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-installation": {
+        "src": "/images/service-flooring-installation.webp",
+        "srcset": "/images/service-flooring-installation-400w.webp 400w, /images/service-flooring-installation-800w.webp 800w, /images/service-flooring-installation-1200w.webp 1200w, /images/service-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "minor-plumbing-repairs": {
+        "src": "/images/service-minor-plumbing-repairs.webp",
+        "srcset": "/images/service-minor-plumbing-repairs-400w.webp 400w, /images/service-minor-plumbing-repairs-800w.webp 800w, /images/service-minor-plumbing-repairs-1200w.webp 1200w, /images/service-minor-plumbing-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
